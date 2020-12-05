@@ -1,27 +1,7 @@
-# Grace Hopper Jeopardy
+# PHP Demo for CodeDeploy
 
-This solution demonstrates multiple best-practices for building a NodeJS web application for Grace Hopper Jeopardy trivia game.
----
-## Run locally
+This solution demonstrates multiple best-practices for deploying a PHP web application using AWS CodeDeploy.
 
-Open index.html in your browser.
-
-#### To eebuild
-Run the following:
-```
-    npm install
-    npm run webpack
-```
-Then open index.html in your browser.
-
----
-## Create Github personal access token
-
-#### Note:
-Create a Personal Access Token for your Github account for the AWS webhook.
-
-#### Link:
-https://docs.github.com/en/free-pro-team@latest/github/authenticating-to-github/creating-a-personal-access-token
 ---
 ## Deploy on AWS
 
